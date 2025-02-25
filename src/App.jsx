@@ -5,7 +5,17 @@ const specialStyles = [
     "꧁𓊈𒆜 {name} 𒆜𓊉꧂", "๖ۣۜ {name} ๖ۣۜ", "⫷ {name} ⫸", "◥꧁ {name} ꧂◤",
     "╰☆☆ {name} ☆☆╮", "𒀱 {name} 𒀱", "✪ {name} ✪", "♜『 {name} 』♜",
     "♔✧ {name} ✧♔", "♠️ {name} ♠️", "✵『 {name} 』✵", "➻❥ {name} ❥➻",
-    "༆『 {name} 』༆", "♆『 {name} 』♆", "༄ᶦᶰᵈ✿ {name} ࿐", "꧁༺ {name} ༻꧂",
+    "༆『 {name} 』༆", "╰︻╦̵̵͇̿̿̿̿ {name} ╦̵̵͇̿̿̿̿︻╯", "♆『 {name} 』♆",
+    "༄ᶦᶰᵈ✿ {name} ࿐", "꧁༺ {name} ༻꧂", "★彡[{name}]彡★", "【☠】{name}【☠】",
+    "╰⊰ {name} ⊱╯", "↭『 {name} 』↭", "✦✧ {name} ✧✦", "☾✹ {name} ✹☽",
+    "⫷『 {name} 』⫸", "✶∘ {name} ∘✶", "卍『 {name} 』卍", "꧁ღ⊱ {name} ⊰ღ꧂",
+    "𓆩 {name} 𓆪", "࿐『 {name} 』࿐", "❖『 {name} 』❖", "✦◈ {name} ◈✦",
+    "⚡『 {name} 』⚡", "✺『 {name} 』✺", "♢『 {name} 』♢", "༆✿ {name} ✿༆",
+    "✽『 {name} 』✽", "⧫『 {name} 』⧫", "♔『 {name} 』♔", "⚜『 {name} 』⚜",
+    "✙『 {name} 』✙", "⊹『 {name} 』⊹", "∞『 {name} 』∞", "✰『 {name} 』✰",
+    "♠『 {name} 』♠", "☠『 {name} 』☠", "☯『 {name} 』☯", "✧『 {name} 』✧",
+    "⚔『 {name} 』⚔", "♡『 {name} 』♡", "✿『 {name} 』✿", "☆『 {name} 』☆",
+    "❆『 {name} 』❆", "💀『 {name} 』💀", "❥『 {name} 』❥", "☾『 {name} 』☽",
 ];
 
 function App() {
